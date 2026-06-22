@@ -1,9 +1,10 @@
-# URL Shortener — Frontend Track Submission
+# URL Shortener 
 
 A React-based URL Shortener web application with integrated logging middleware, built for the Frontend assessment track.
 
 ## Repository Structure
 ├── LoggingMiddleware/        Reusable logging package
+
 └── FrontendTestSubmission/   React application (URL Shortener)
 
 ## Overview
